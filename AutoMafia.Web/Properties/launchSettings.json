@@ -3,16 +3,16 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:28599",
-      "sslPort": 44342
+      "applicationUrl": "http://localhost:55674",
+      "sslPort": 44383
     }
   },
   "profiles": {
-    "Web": {
+    "AutoMafia.Web": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7128;http://localhost:5128",
+      "applicationUrl": "https://localhost:7254;http://localhost:5254",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
