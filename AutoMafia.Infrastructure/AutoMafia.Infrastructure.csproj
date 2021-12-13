@@ -7,9 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Entities" />
-      <Folder Include="Repositories" />
-      <Folder Include="Services" />
+      <ProjectReference Include="..\AutoMafia.Domain\AutoMafia.Domain.csproj" />
     </ItemGroup>
 
 </Project>

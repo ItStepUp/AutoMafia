@@ -1,10 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{BC22C4BA-60BE-4FA3-B17F-D305CAAA2ED2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMafia.Web", "AutoMafia.Web\AutoMafia.Web.csproj", "{BC22C4BA-60BE-4FA3-B17F-D305CAAA2ED2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{8D096571-8313-42E6-B196-B2613FA2D445}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMafia.Domain", "AutoMafia.Domain\AutoMafia.Domain.csproj", "{8D096571-8313-42E6-B196-B2613FA2D445}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{7E8D4092-1FC4-40D8-8188-5165BC71508B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMafia.Infrastructure", "AutoMafia.Infrastructure\AutoMafia.Infrastructure.csproj", "{7E8D4092-1FC4-40D8-8188-5165BC71508B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
