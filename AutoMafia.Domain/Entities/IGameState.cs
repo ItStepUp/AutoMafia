@@ -4,5 +4,4 @@ public interface IGameState
 {
     event Func<IGameState, Task> StateChanged;
     
-    
 }
