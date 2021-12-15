@@ -3,10 +3,10 @@
     public class Player
     {
         public string Name { get; set; }
-        public int Id { get; set; }
-        public enum Сondition {Live, Dead }
+        public Guid Id { get; set; }
+        public enum Сondition {Live, Deadб, Silence}
 
-        public Player(int id, string name, Сondition сondition/*Role*/)
+        public Player(Guid id, string name, Сondition сondition/*Role*/)
         {
             Id = id;
             Name = name;            
